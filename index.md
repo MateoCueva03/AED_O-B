@@ -11,7 +11,7 @@ layout: default
 
 
 <div align="center">
-<img src="https://image3.slideserve.com/6468191/algoritmos-de-ordenamiento-n.jpg">
+<img src="https://juncotic.com/wp-content/uploads/2016/10/orden-2.png">
 </div>
 
 
@@ -33,7 +33,7 @@ layout: default
 <h1>Ejercicios con Algoritmos de Busqueda</h1>
 
 <div align="center">
-<img src="https://image3.slideserve.com/6468191/algoritmos-de-b-squeda-n.jpg">
+<img src="https://miro.medium.com/max/600/1*4poxx4vMDQfGEq3HeswJoA.gif">
 </div>
 
 
