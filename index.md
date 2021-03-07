@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+<div align="center">
+<img src="https://tecsidel.com/wp-content/uploads/2018/02/desarrollo-SW.jpg">
+</div>
 
 <h1>Ejercicios con Algoritmos de Ordenamiento</h1>
 
@@ -34,11 +37,11 @@ layout: default
 </div>
 
 
-<ol>
+<ul>
 
   <li><a href="https://github.com/MateoCueva03/Busqueda_AED/tree/B.Binaria" target="_blank">Binaria</a></li>
   <li><a href="https://github.com/MateoCueva03/Busqueda_AED/tree/B.Interpolacion" target="_blank">Interpolacion</a></li>
   <li><a href="https://github.com/MateoCueva03/Busqueda_AED/tree/B.Lineal" target="_blank">Lineal</a></li>
  
   
-</ol>
+</ul>
