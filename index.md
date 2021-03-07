@@ -4,7 +4,7 @@ layout: default
 
 
 <div align="center">
-<img src="https://tecsidel.com/wp-content/uploads/2018/02/desarrollo-SW.jpg">
+<img src="https://img2.freepng.es/20180426/xue/kisspng-algorithms-data-structures-=-programs-data-struc-5ae173e12e69b4.6797280015247247051901.jpg">
 </div>
 
 <h1>Ejercicios con Algoritmos de Ordenamiento</h1>
