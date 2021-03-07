@@ -11,7 +11,7 @@ layout: default
 
 
 <div align="center">
-<img src="https://juncotic.com/wp-content/uploads/2016/10/orden-2.png">
+<img src="https://developnetblog.files.wordpress.com/2019/01/bubble-2.gif">
 </div>
 
 
