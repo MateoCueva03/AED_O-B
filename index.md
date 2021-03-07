@@ -7,7 +7,10 @@ layout: default
 <img src="https://tecnoinformatic.com/wp-content/uploads/2020/05/Estructura-de-datos-2.jpg">
 </div>
 
+
+
 <hr>
+
 
 <h1>Ejercicios con Algoritmos de Ordenamiento</h1>
 
